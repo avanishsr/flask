@@ -1,0 +1,22 @@
+train: dataset/train/images
+val: dataset/train/images
+
+nc: 16
+names: [
+  "Headlight",
+  "Taillight",
+  "Windshield",
+  "Side Mirror",
+  "Front door",
+  "Rear door",
+  "Quarter panel",
+  "Rear Quarter panel",
+  "Grill",
+  "Roof",
+  "Windows",
+  "Rear windshield",
+  "Rear bumper",
+  "Trunk",
+  "Hood",
+  "Bumper"
+]
